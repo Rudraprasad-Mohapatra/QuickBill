@@ -1,4 +1,4 @@
-import InvoiceForm from "./forms/invoiceform"
+import InvoiceForm from "./forms/invoiceform.jsx"
 
 function App() {
 
